@@ -1,2 +1,7 @@
 hey
+<<<<<<< HEAD
 haha
+=======
+hi there
+>>>>>>> b1
+hihi
